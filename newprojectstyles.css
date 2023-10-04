@@ -1,0 +1,583 @@
+body{
+	font-family: public sans;
+	padding: 0px;
+	margin: 0px 0px;
+	width: 100%;
+}
+/*//css for home page*/
+.first-backgroundd{
+	background-image: url("mynewestt.jpg");
+	background-size: cover;
+	height: 620px;
+	margin-top: -102px;
+	background-color: #101323;
+		/*	color: blue;*/
+		text-align: center;
+
+
+}
+.h1-newest{
+	/*margin-left: 200px;*/
+	text-align: center;
+	/*margin-left: 285.500px;*/
+	color: white;
+	padding-top: 130px;
+	font-style: normal;
+	font-weight: 600px;
+	letter-spacing: -0.011em;
+	font-size: 60px;
+	line-height: 1;
+	font-family: public sans;
+}
+.p-newest{
+	/*margin-left: 200px;*/
+	font-size: 20px;
+	text-align: center;
+	color: white;	
+	font-family: public sans;
+	line-height: 1.527;
+
+	/*padding: auto;*/
+}
+
+.new-button{
+	text-decoration: none;
+	border: none;
+	color: black;
+	background-color: #fcc861;
+	height: 50px;
+	width: 180px;
+	text-align: center;
+	border-radius: 25px;
+	font-size: 20px;
+	/*padding: 42px 14px;*/
+	margin-top: 80px;
+}
+.main-div-about-us{
+	text-align: center;
+	margin-left: 286.5px;
+	margin-right: 286.5px;
+	padding-top: 140px;
+	padding-bottom:0px;
+	padding-left: 28px;
+	padding-right: 28px;
+}
+.about-us-here{
+	font-family: public sans;
+	color: #82828c;
+
+}
+.why-h1{
+	font-family: public sans;
+	color: #0F0F0F;
+	font-size: 50px;
+}
+.why-p{
+	font-family: public sans;
+	color: #0F0F0F;	
+	font-size: 20px;
+	line-height: 1.5;
+	font-weight: 19.16;
+	letter-spacing: 1px;
+}
+.main-div-personalised{
+	/*text-decoration: justify;*/
+	display: inline-flex;
+	/*margin-left: 60px;*/
+	margin-left: 106.5px;
+	margin-right: 106.5px;
+	margin-top: 48px;
+	margin-bottom: 48px;
+	font-size: 20px;
+	padding-bottom: 140px;
+}
+.personalised{
+	margin-left: 35px;
+}
+.personalised-h1{
+	font-size: 25.008px;
+	/*font-weight: 19.16px;*/
+	font-family: public sans;
+}
+.personalised-p1{
+	font-size: 20px;
+	font-family: public sans;
+	font-weight: 15.16px;
+	line-height: 1.5;
+
+}
+.facilities{
+	margin-left: 35px;
+}
+.facilities-h1{
+	font-size: 25.008px;
+	/*font-weight: 19.16px;*/
+	font-family: public sans;
+}
+.facilities-p1{
+	font-size: 20px;
+	font-family: public sans;
+	font-weight: 15.16px;
+	line-height: 1.5;	
+}
+.community{
+	margin-left: 35px;
+}
+.community-h1{
+	font-size: 25.008px;
+	/*font-weight: 19.16px;*/
+	font-family: public sans;
+}
+.community-p1{
+	font-size: 20px;
+	font-family: public sans;
+	font-weight: 15.16px;
+	line-height: 1.5;
+}
+.asseen{
+	background-color: black;
+	color: white;
+	/*display: inline-flex;*/
+	/*text-align: center;*/
+	padding-top: 84px;
+	padding-bottom: 84px;
+	padding-right: 28px;
+	padding-left: 28px;
+}
+.as-seen{
+	text-align: center;
+	color: #82828C;
+	font-size: 15px;
+	font-family: public sans;
+}
+.wellness{
+	display: inline-flex;
+	padding-left: 210px;
+	/*padding-right: 158px;*/
+}
+.wellness-h1{
+	/*margin-left: 150px;*/
+}
+.wellness-h2{
+	margin-left: 50px;
+}
+.wellness-h3{
+	margin-left: 50px;
+}
+.wellness-h4{
+	margin-left: 50px;
+}
+.wellness-h5{
+	margin-left: 50px;
+}
+.quick-main-div{
+	padding-top: 140px;
+	padding-bottom: 140px;
+	/*text-align: center;*/
+}
+.quick-div{
+	margin-left: 286.5px;
+	margin-right: 286.5px;
+	text-align: center;
+}
+.quick-start-guide{
+	color: #82828C;
+	font-size: 16px;
+	font-weight: 3.8px;
+}
+.step-6{
+	letter-spacing: 0.011em;
+	line-height: 1.5;
+	font-size: 20px;
+}
+.main-div1{
+	display: inline-flex;
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.main-div1-h3{
+	font-size: 25px;
+
+}
+.main-div1-p1{
+	font-size: 16px;
+	font-family: public sans;
+	line-height: 1.5;
+	width: 300px;
+	font-weight: 15
+}
+.main-div{
+	display: inline-flex;
+	padding-left: 200px;
+	padding-right: 200px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.main-section1{
+	margin-left: 30px;
+}
+.main-linlk1{
+	color: black;
+}
+.for-yellow{
+	background-color: #fcc861;
+
+	
+}
+.what-people-say{
+	display: inline-flex;
+	margin-left: 100px;
+	padding-top: 110px;
+	padding-bottom: 10px;
+	padding-left: 60px;
+	padding-right: 60px;
+	/*margin-top: -120px;*/
+
+}
+.class-yellow-h1{
+	margin-left: 30px;
+	font-size: 33px;
+	line-height: 1.2;
+	letter-spacing: 0.07em;
+	font-weight: 19px;
+}
+.profile-yellow-div{
+	display: inline-flex;
+	margin-left: 370px;
+}
+.h3-p-class{
+	margin-left: 50px;
+	margin-bottom: 30px;
+}
+.in-hove{
+	
+	margin-bottom: 20px;
+}
+.h3kate{
+
+	/*margin-left: 70px;*/
+	/*margin-bottom: 20px;*/
+}
+.profile-yellow{
+	margin-top: 20px;
+	height: 30px;
+	width: 30px;
+	border-radius: 20px;
+	border:blue;
+	background-image: url("mynewestt.jpg");
+	background-size: cover;
+}
+.simple-pricing{
+	margin-left: 286.5px;
+	margin-right: 286.5px;
+	padding-bottom: 130px;
+	padding-top: 160px;
+}
+.simple{
+	color: gray;
+	text-align: center;
+}
+.minimal{
+	text-align: center;
+	font-size: 40px;
+}
+.startfit{
+	text-align: center;
+}
+.starter-things{
+	display: inline-flex;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	padding-right: 130px;
+	padding-left: 130px;
+}
+.starter-plan-h1{
+	font-size: 22px;
+	font-weight: 19.16px;
+	font-family: public sans;
+}
+.starter-plan-p{
+	font-size: 15px;
+	font-family: public sans;
+	line-height: 1.5;	
+}
+.starter-plan{
+	border:1px solid black;
+	padding-left: 28px;
+	padding-right: 28px;
+	padding-top: 30px;
+	padding-bottom: 70px;
+	margin-right: 20px;
+	height: 310px;
+}
+.performance-plan{
+	border:1px solid black;
+	padding-left: 28px;
+	padding-right: 28px;
+	padding-top: 30px;
+	padding-bottom: 70px;
+	margin-right: 20px;
+	height: 310px;
+}
+.Elite-plan{
+	border:1px solid black;
+	padding-left: 28px;
+	padding-right: 28px;
+	padding-top: 30px;
+	padding-bottom: 70px;
+	height: 310px;	
+}
+.first-button{
+	border: none;
+	color: white;
+	background-color: black;
+	height: 40px;
+	width: 150px;
+	border-radius: 15px;
+}
+.second-button{
+	border: none;
+	color: white;
+	background-color: black;
+	height: 40px;
+	width: 150px;
+	border-radius: 15px;
+}
+.third-button{
+	border: none;
+	color: white;
+	background-color:black;
+	height: 40px;
+	width: 150px;
+	border-radius: 15px;
+}
+.p-understarter-plan{
+	line-height: 1.8;
+	letter-spacing: 0.01em
+}
+.not-convinced{
+	text-align: center;
+	padding-bottom: 140px;
+	line-height: 1.8;
+}
+.revolution{
+	background-image: url("newestproject.jpg");
+	background-size: cover;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-bottom: 50px;
+	padding-top: 50px;
+	height: 500px;
+}
+.revolution-border{
+	border: 2px solid white;
+	width: 600px;
+	height: 250px;
+	padding-bottom: 70px;
+	padding-left: 50px;
+	padding-right: 20px;
+	margin-left: 120px;
+}
+.revolution-h1{
+	color: white;
+	font-size: 45px;
+}
+.revolution-p{
+	color: white;
+	font-size: 22px;
+}
+.revolution-button{
+	text-decoration: none;
+	border: none;
+	color: black;
+	background-color: #fcc861;
+	height: 50px;
+	width: 180px;
+	text-align: center;
+	border-radius: 25px;
+	font-size: 20px;
+}
+
+/*//css for about page*/
+
+.yellow-nav{
+	background-color: #fcc861;
+	height: 40px;
+	width: 100%;
+	text-align: center;
+	padding-top: 33px;
+	margin-top: -20px;
+}
+
+.header-nav{
+	background-color: black;
+	height: 56px;
+	width: 100%;
+	margin-top: -25px;
+
+}
+.divo-ahmed{
+	padding-top: 15px;
+}
+.ahmed{
+	text-decoration: none;
+	color: white ;
+	font-family: public sans;
+	/*margin-top: -20px;*/
+	font-weight: bold;
+	font-size: 20px;
+	padding: 10px 27px;
+}
+.Home{
+	text-decoration: none;
+	font-weight: bold;
+	font-family: public sans;
+	color: white; 
+	margin-left: 880px;
+	font-size: 20px; 
+	/*margin-top: -30px;     */
+}
+.h1-about{
+	/*text-decoration: none;*/
+	padding-left: 100px;
+	padding-right: 100px;
+	/*padding-bottom: 100px;*/
+	padding-top: 150px;
+	font-size: 36.2906px;
+	font-family: public sans;
+
+}
+.div-about{
+	padding-bottom: 180px;
+	padding-top: 50px;
+	padding-left: 100px;
+
+}
+.p-hello{
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-bottom: 28px;
+	font-size: 18.5827px;
+	color: #0F0F0F;
+	line-height: 1.6;
+	/*padding-top: 100px;*/
+}
+.p2-hello{
+	color: #0F0F0F;
+	line-height: 1.6;
+	padding-left: 100px;
+	padding-right: 100px;
+	font-size: 18.5827px;
+	/*padding-top: 100px;*/
+}
+.about-img1{
+	height:20px;
+	width: 20px;
+	border-radius: 8px;
+	margin-left: 110px;
+}
+.about-img2{
+	height:20px;
+	width: 20px;
+	border-radius: 8px;
+	margin-left: 10px;
+}
+.about-img3{
+	height:20px;
+	width: 20px;
+	border-radius: 8px;
+	margin-left: 10px;
+}
+.div-background{
+	background-color: black;
+	height: 512px;
+	
+}
+.div-for-ahmed{
+	color: white;
+	padding-top: 50px;
+	padding-right: 35px;
+	padding-left: 75px;
+	padding-bottom: 35px;
+	display: inline-flex;
+}
+
+.ahmed-link{
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 25px;
+	/*font-family: public-sans;*/
+	color: white;
+	/*padding-bottom: ;	*/
+}
+.href{
+	color: white;
+}
+.ahmed-p1{
+	padding-top: 10px; 
+}
+.ahmed-p2{
+	padding-bottom: 30px;
+	line-height: 1.6;
+	font-style: justify;
+}
+.ahmed-h2{
+	font-size: 25px;
+}
+.div-a1{
+	padding: 70px 38px;
+	/*margin-left: 30px;*/
+}
+.ahmed-p3{
+	line-height: 1.6;
+	margin-bottom: 15px;
+}
+.div-a2{
+	margin-left:60px;
+	padding: 45px 28px;
+	display: inline-block;
+}
+img{
+
+}
+.img1{
+	height:25px;
+	width: 25px;
+	border-radius: 11px;
+
+}
+.img2{
+	height:25px;
+	width: 25px;	
+	border-radius: 11px;
+	margin-left: 10px;
+}
+.img3{
+	height:25px;
+	width: 25px;
+	border-radius: 11px;
+	margin-left: 10px;
+}
+.img4{
+	height:25px;
+	width: 25px;
+	border-radius: 8px;
+	margin-left: 10px;
+}
+.Subscribe-button{
+	border: none;
+	background-color: #fcc861;
+	border-radius: 0px 25px 25px 0px;
+	height: 37px;
+	width: 86px;
+}
+.email-input{
+	border: none;
+	border-radius:25px 0px 0px 25px;
+	height: 37px;
+	width: 264px;
+	margin-top: 60px;
+	padding-right: 10px;
+}
